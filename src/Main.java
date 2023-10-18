@@ -2,6 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
+
 public class Main {
     static List<AnimaleDisponible> animalesDisponibles = new ArrayList<>();
     static List<Adopcion> adopciones = new ArrayList<>();
